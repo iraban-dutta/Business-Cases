@@ -16,6 +16,7 @@ This repository contains multiple case studies each of which were problem statem
   - Decision Trees
   - Tree based Ensemble Techniques: Random Forest, GBDT
   - Advanced Ensemble Techniques: Stacking
+  - SVMs
 - Classical ML: Unsupervised Techniques
   - KMeans
   - Hierarchical Clustering
